@@ -1,5 +1,6 @@
 # Wolf_3D
 
+The aim of the project is to build a video game like Wolfenstein 3D. We used the mlx graphic library from 42 school.  
 
 ## Compiling
 
@@ -19,3 +20,5 @@ ESC to exit
 
 ## Example 
 
+![Alt text](img/screen1.png?raw=true "Wolf3D")
+![Alt text](img/screen2.png?raw=true "Wolf3D")
