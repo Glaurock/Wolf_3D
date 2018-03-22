@@ -7,16 +7,16 @@ The aim of the project is to build a video game like Wolfenstein 3D. We used the
 Running make will compile all the libraries and the project. 
 
 ## Usage
-./wolf3d <map>
+./wolf3d map
 
-COMMANDS :
-W, A, S, D to move
-Q, E to straf
-+, - to change FOV
-P to pause the game
-SPACE to fire
-ENTER to reset
-ESC to exit
+COMMANDS :  
+W, A, S, D to move 
+Q, E to straf 
++, - to change FOV 
+P to pause the game 
+SPACE to fire   
+ENTER to reset   
+ESC to exit   
 
 ## Example 
 
