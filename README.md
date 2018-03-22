@@ -19,3 +19,5 @@ ESC to exit
 
 ## Example 
 
+![Alt text](img/Screen Shot 2018-03-22 at 12.24.26 PM.png?raw=true "Wolf3D")
+![Alt text](img/Screen Shot 2018-03-22 at 12.27.10 PM.png?raw=true "Wolf3D")
